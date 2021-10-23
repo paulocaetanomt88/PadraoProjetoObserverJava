@@ -11,6 +11,15 @@
   <li>1 Interface</li>
 </ul>
 
+<p>
+  <b>Classe AniversarioSurpresa:</b> Classe responsável por executar o nosso exemplo. <br />
+  <ul>
+    <li>cria instância do subject</li>
+    <li>cria instâncias dos observadores</li>
+    <li>faz a solicitação da notificação quando o evento ocorrer</li>
+    <li>porteiro passa a monitorar os eventos</li>
+  </ul>
+</p>
 <p><b>Interface ChegadaAniversarianteObserver:</b> todos os interessados ou observadores devem implementar o método definido
 nesta interface: método chegou().</p>
 <p><b>Classe ChegadaAniversarianteEvent:</b> esta classe define todas as informações relevantes do evento, ou seja, ela carrega os dados do evento.</p>
