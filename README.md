@@ -21,7 +21,7 @@ nesta interface: método chegou().</p>
 Se o número digitado for 1, significa que o evento ocorreu 
                 // ou se for outra tecla significa alarme falso</p>
 <p><b>Classe Namorada:</b> a classe Namorada implementa a interface ChegadaAniversarianteObserver.</p>
-p><b>Classe VizinhaFofoqueira:</b> a classe VizinhaFofoqueira implementa a interface ChegadaAniversarianteObserver.</p>
+<p><b>Classe VizinhaFofoqueira:</b> a classe VizinhaFofoqueira implementa a interface ChegadaAniversarianteObserver.</p>
 
 <h4>Exemplo de execução:</h4>
 run:<br />
